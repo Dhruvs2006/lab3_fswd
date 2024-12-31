@@ -1,0 +1,8 @@
+Os type = Windows_NT
+Os memory = 17057648640
+Os freememory = 8643923968
+CPU Details:
+  Core 1: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (3912 MHz)
+  Core 2: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (3912 MHz)
+  Core 3: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (3912 MHz)
+  Core 4: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (3912 MHz)
